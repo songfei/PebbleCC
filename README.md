@@ -3,7 +3,7 @@ PebbleCC
 
 PebbleCC是 为Pebble智能手表开发的一款iOS系统中文消息软件。
 
-![效果图](http://dn-songfei.qbox.me/pebble871E467553EF4E17EFDBBAD24AE75616.jpg)
+![效果图](http://dn-songfei.qbox.me/pebbleccworks.jpg)
 
 分为三个部分：
 
