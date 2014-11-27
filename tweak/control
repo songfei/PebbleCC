@@ -1,0 +1,9 @@
+Package: org.songfei.chinesemessage8
+Name: 中文Pebble for iOS 8
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 适配iOS8系统， 本插件的功能是将系统通知中心收到的推送消息转发到“PebbleCC” (Pebble Chinese Coming!)应用程序内，由“PebbleCC"应用程序发送给Pebble手表。请您下载并安装“PebbleCC”应用程序，单独安装本插件没有任何功能。 PebbleCC可以在http://fir.im/pebblecc下载。    宋飞制造（http://songfei.org)
+Maintainer: 宋飞
+Author: 宋飞(songfei.org#qq.com)
+Section: Tweaks
